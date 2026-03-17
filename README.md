@@ -76,8 +76,6 @@ For example, if 𝑦=𝑙𝑛(𝑥) and you simply use x as an independent varia
 
 A major advantage of neural networks over regression is that this method requires no statistical assumptions about your data. For example, unlike regression, you do not assume that your errors are independent and normally distributed.
 
-Question: After knowing the basic concepts, now do you think neural networks will be able to outperform or will underperform multiple linear model in forecasting? Why do you think so?
-
 
 
 # 2.Using Neural Networks to Predict Sales
